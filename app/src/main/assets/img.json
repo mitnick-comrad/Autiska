@@ -1,0 +1,64 @@
+{"intents": [
+        {"tag": "ques1",
+         "question":"what is this animal",
+         "option": ["dog","cat","mouse","rabbit"],
+         "answer": "dog",
+	 "path":""
+        },
+        {"tag": "ques2",
+         "question": "what kind of animal is a cow",
+         "option": ["wild","domestic","poiseness","sea animal"],
+         "answer": "domestic",
+        "path":""
+	      },
+        {"tag": "ques3",
+         "question": "what is the color of the leaf"
+         ,"option":["blue","pink","green","red"] 
+         ,"answer": "green"
+        ,"path":""
+	    },
+        {"tag": "ques4",
+         "question": "which animal is this"
+         ,"option": ["elephant","pig","goat","monkey"]
+ 	      ,"answer":"elephant",		
+         "path": ""
+        },
+        {"tag": "ques5",
+         "question": "what is this fruit called"
+         ,"option": ["mango","grapes","apple","banana"],
+         "answer": "apple"
+         ,"path":""
+	    },
+        {"tag": "ques6",
+         "question": "what is this vehical called"
+         ,"option": ["bus","train","car","bike"] 
+         ,"answer": "car"
+        ,"path":""
+	    },
+	    {"tag": "ques7",
+         "question": "what does tiger eat"
+         ,"option": ["egg","plant","meat","fish"] 
+         ,"answer": "meat"
+         ,"path":""
+	    },
+	    {"tag": "ques8",
+         "question": "which flower is this"
+         ,"option": ["lotus","tuip","lilli","rose"] 
+         ,"answer": "rose"
+         ,"path":""
+	},
+   
+	{"tag": "ques9",
+         "question": "name the bird"
+         ,"option": ["panda","owl","parrot","pig"] 
+         ,"answer": "owl"
+         ,"path":""
+     },
+	{"tag": "ques10",
+         "question": "name the fruit"
+         ,"option": ["orange","apple","guava","strawberry"] 
+         ,"answer": "strawberry"
+         ,"path":""
+	}	
+    ]
+}
